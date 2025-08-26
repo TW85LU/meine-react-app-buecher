@@ -30,7 +30,7 @@ function HomePage() {
     <Container>
       <Row className="my-4">
         <Col>
-          <h1>Willkommen im Bücher-Projekt</h1>
+          <h1>Willkommen im Bücher-Projekt von Tanja</h1>
           <p className="lead">
             Entdecke neue Bücher und verwalte deine Favoriten.
           </p>
